@@ -15,7 +15,7 @@
     <name>adserver</name>
     <description>An application to manage ads</description>
     <properties>
-        <java.version>26</java.version>
+        <java.version>27</java.version>
     </properties>
     <dependencies>
         <dependency>
